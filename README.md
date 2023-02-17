@@ -1,5 +1,7 @@
 <!-- ### Hi there 👋 -->
 
+<img align="center" src="assest\bg.gif"  height=350px width=100%>
+
  <a href="https://linkedin.com/in/samadpls" target="_blank">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20Abdul%20Samad%20PR%20Here👋&fontSize=30&height=120&width=100%&section=header"/>
