@@ -20,6 +20,8 @@
  - Hello👋, my name is <a href="https://www.linkedin.com/in/abdul-samad-112ba923a/" target="blank">Abdul Samad ,😎</a> and I'm a student at Brototype studying software engineering. an introvert who chose computer science so that they could work alone. But who would have guessed that I would develop a passion for programming. Flutter💻📲 is my favourite programming language, and I love solving issues. One of the areas where I gained the most knowledge was GitHub.I'm interested in the UI UX Design,  backend-development, HTML & CSS, and JavaScript. Aim to contribute to the developer community.
 
 ------
+<!-- <img align='right' src='profile-3d-contrib/profile-night-green.svg' height=200> -->
+🔭 I’m currently working on App development & Web design <br>🌱 I’m currently learning Web development<br>💬 Ask me about Flutter, HTML & CSS, Python, GitHub and git<br>
 
 
 
