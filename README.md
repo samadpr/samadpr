@@ -25,7 +25,7 @@
 
 ## <img src='assest/stack.png' height=60/> Tech Stack:
 <div align='center'>
-<img align='center' src="https://skillicons.dev/icons?i=flutter,dart,gradle,firebase,html,css,js,bootstrap,figma,mongodb,git,github,gitlab,py,java,c,cpp,eclipse,unity" />
+<img align='center' src="https://skillicons.dev/icons?i=flutter,dart,gradle,firebase,html,css,js,bootstrap,mongodb,git,github,gitlab,py,java,c,cpp,unity" />
 </div>
 
 
