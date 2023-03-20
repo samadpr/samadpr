@@ -27,6 +27,13 @@
 <div align='center'>
 <img align='center' src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,js,bootstrap,mongodb,git,github,py,java,c,cpp,unity" />
 </div>
+ 
+ 
+## <img src='.github/workflows/tech.gif' height=60/> Socials:
+<div>
+ <a href="https://www.linkedin.com/in/abdul-samad-112ba923a/" ><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/alcode10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samadpls" height="30" width="40" /></a></div>
+
 
 
 
