@@ -21,7 +21,7 @@
 
 ------
 <!-- <img align='right' src='profile-3d-contrib/profile-night-green.svg' height=200> -->
-🔭 I’m currently working on App development & Web design <br>🌱 I’m currently learning Web development<br>💬 Ask me about Flutter, HTML & CSS, Python, GitHub and git<br>
+🔭 I’m currently working on  Full stack developer <br>🌱 I’m currently learning Web development<br>💬 Ask me about Flutter, HTML & CSS, Python, GitHub and git<br>
 
 ## <img src='assest/stack.png' height=60/> Tech Stack:
 <div align='center'>
