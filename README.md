@@ -8,7 +8,7 @@
 </p></a>
 
 <div align='center'>
-<a href="https://github.com/samadpls/Islamic-qoutes"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=520&lines=Flutter+%7C+Python+%7C+Java+%7C+HTML+%26+CSS+%7C+MongoDB+%7C+Hive" alt="Typing SVG" />
+<a href="https://github.com/samadpr"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=520&lines=Flutter+%7C+Python+%7C+Java+%7C+HTML+%26+CSS+%7C+MongoDB+%7C+Hive" alt="Typing SVG" />
 </a></div><br>
 <div align='left'>
  
