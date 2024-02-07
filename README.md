@@ -32,7 +32,9 @@
 ## <img src='.github/workflows/tech.gif' height=60/> Socials:
 <div>
  <a href="https://www.linkedin.com/in/abdul-samad-112ba923a/" ><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/alcode10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samadpls" height="30" width="40" /></a></div>
+<a href="https://twitter.com/alcode10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samadpls" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/__samadpr__/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" alt="samadpls" height="40" width="40" /></a>
+</div>
 
 
 
