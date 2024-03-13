@@ -35,8 +35,8 @@
 ###
 
 <br clear="both">
-
-<img align="right" height="155" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- https://i.imgflip.com/65efzo.gif -->
+<img align="right" widht=100 height="160" src="https://programming-gifs.cyclic.app"  />
 
 ###
 
@@ -98,14 +98,14 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
-###
+<!-- ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/samadpr/samadpr/output/snake.svg" alt="Snake animation" />
 
 ###
-<!-- <img align='right' src='profile-3d-contrib/profile-night-green.svg' height=200> 
+<img align='right' src='profile-3d-contrib/profile-night-green.svg' height=200> 
 🔭 I’m currently working on  Full stack developer <br>🌱 I’m currently learning Web development<br>💬 Ask me about Flutter, HTML & CSS, Python, GitHub and git<br>
 
 ## <img src='assest/stack.png' height=60/> Tech Stack:
