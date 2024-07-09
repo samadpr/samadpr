@@ -13,7 +13,7 @@
 <div align='left'>
  
  <a href='#'>
-<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=200 alt='samadpls/Programming-Gifs'></a>
+<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=200 ></a>
  
  # <img src='assest\about me.jpg' height=50/>  About Me:
  
@@ -99,7 +99,7 @@
 </div>
 
 <!-- ###
-
+https://programming-gifs.cyclic.app
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/samadpr/samadpr/output/snake.svg" alt="Snake animation" />
